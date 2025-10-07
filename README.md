@@ -2,7 +2,7 @@
 
 This repository hosts an AI framework developed for automated characterization of the tumor-stroma landscape in Merkel Cell Carcinoma (MCC) using whole-slide histology images. Leveraging deep learning and probabilistic modeling, our approach enables precise tumor-stroma ratio (TSR) estimation and novel tumor-stroma landscape (TSL) classification, both linked to patient prognosis.
 
-![TOAST Framework Overview](logo/overview.jpeg "Overview of TOAST Framework")
+![TOAST Framework Overview](logo/overview.jpg "Overview of TOAST Framework")
 
 
 ## Key Features
